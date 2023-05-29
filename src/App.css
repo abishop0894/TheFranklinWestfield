@@ -1,0 +1,382 @@
+.offcanvas {
+    -webkit-animation: smooth .3s ease-in-out !important;
+    -moz-animation: smooth .5s ease-in-out !important;
+    -o-animation: smooth .5s ease-in-out !important;
+    -ms-animation: smooth .5s ease-in-out !important;
+    animation: smooth .5s ease-in-out !important;
+    transition: transform .5s cubic-bezier(.075, .82, .165, 1),
+        transform .5s cubic-bezier(.075, .82, .165, 1) !important;
+    border: 0px !important;
+}
+
+
+
+
+
+@font-face {
+    font-family: 'Kinetic';
+    font-style: normal;
+    src: url("./assets/fonts/Kenetic/Kinetic-Bold.6579dd3a.woff2") format('woff2');
+
+}
+
+@font-face {
+    font-family: 'Brooklyn';
+    font-style: normal;
+    src: url("./assets/fonts/Brooklyn/Brooklyn-Normal.a3ecc99e.woff2") format('woff2');
+
+}
+
+.bottomBar,
+.contactTitle {
+    font-family: Brooklyn !important;
+}
+
+
+thead tr {
+    font-family: Kinetic;
+}
+
+@-webkit-keyframes smooth {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes smooth {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes smooth {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes smooth {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+/* gallery */
+
+.galleryPage {
+    width: 100%;
+    padding: 10vw 0 0;
+}
+
+.galleryTabs {
+    display: flex;
+    gap: 0 2vw;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media (max-width: 450px) {
+    .galleryTabs {
+        display: flex;
+        gap: 0 2vw;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+
+
+
+.galleryTabs .active {
+
+    border-bottom: 2px solid #d3901c;
+}
+
+.galleryTabs .inactive {
+    border-bottom: 2px solid transparent;
+}
+
+.tabContent {
+
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: .6vw;
+    padding: 2vw;
+}
+
+.tabContent {
+    transition: all 1 ease;
+}
+
+.tabContent .tabImages {
+    animation: img 1s forwards;
+    opacity: .2;
+    height: 300px;
+    transition: all 1 ease-in-out;
+    scale: 1;
+}
+
+.tabContent .tabImages:hover {
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 920px) {
+    .tabContent .tabImages {
+        animation: img 1s forwards;
+        opacity: .2;
+        height: 50vh;
+        transition: all 1 ease-in-out;
+        scale: 1;
+    }
+
+    .tabContent {
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 2vw;
+        padding: 2vw;
+    }
+}
+
+
+/* fullScreenImage */
+#lightBox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .6);
+    display: none;
+    z-index: 4000;
+}
+
+#lightBox.active {
+    display: grid;
+    place-items: center;
+
+}
+
+
+/* table */
+
+
+.availabilityPage {
+    width: 100%;
+    color: hsl(0, 0%, 70%);
+    padding: 10vw 0 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 70%;
+    text-transform: uppercase;
+
+}
+
+
+
+.table thead tr th {
+    padding: 2vw;
+    border-bottom: 3px solid black;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-left: 4.2vw !important;
+}
+
+
+
+
+Button {
+    display: flex;
+    gap: 0;
+    transition-duration: .5s;
+}
+
+Button:hover {
+    gap: 1vw;
+    transition: gap .5s ease;
+
+}
+
+.locations button:hover {
+    color: #d3901c !important;
+}
+
+
+
+
+.navLinks a:hover {
+    color: #d3901c !important;
+    transition-duration: .2s !important;
+    transition-timing-function: ease !important;
+}
+
+.navLink a:hover {
+    color: #d3901c !important;
+    transition-duration: .2s !important;
+    transition-timing-function: ease !important;
+}
+
+a {
+    cursor: pointer !important;
+}
+
+
+.modal-header {
+    border-bottom: 0px;
+}
+
+.table tbody tr td {
+
+    padding: 2vw;
+    text-align: center;
+    border-bottom: 0px;
+
+}
+
+.table tbody tr td .viewMore {
+    color: #d3901c;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+tr td {
+    font-family: Brooklyn !important;
+}
+
+td:first-child {
+    font-family: Kinetic !important;
+}
+
+
+
+@keyframes img {
+    from {
+        opacity: 0;
+        scale: .9;
+    }
+
+    to {
+        opacity: 1;
+        scale: 1;
+    }
+}
+
+/*Nav*/
+
+.nav {
+    width: 100%;
+    background: black;
+    top: 0;
+    position: sticky !important;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+}
+
+.appbar {
+    width: 100%;
+    background: #000;
+    position: relative;
+    z-index: 300;
+
+}
+
+.appbar>div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav .toolbar {
+    position: relative;
+    z-index: 300;
+    display: flex;
+    height: 40px;
+    width: 100%;
+    background: #d3901c;
+}
+
+/*side nav*/
+
+
+.sideNav {
+    position: absolute;
+    height: 100vh;
+    overflow: hidden;
+    top: 0;
+    width: 0;
+    right: -500px;
+    background: rgba(0, 0, 0, 0.693);
+    backdrop-filter: blur(5px);
+    transition: all .4s ease;
+}
+
+.sideNavOpen {
+
+    width: 350px;
+    right: 0;
+}
+
+.sideNav ul {
+    position: relative;
+    top: 20vh;
+}
+
+.sideNav li {
+
+    list-style: none;
+
+    padding: 1vw 2vw;
+    text-align: right;
+    color: #fff;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.sideNav li:nth-child(1) {
+    color: #d3901c;
+    font-weight: bold;
+}
+
+.css-uiau74-MuiListItem-root {
+    display: inline-flex;
+    text-align: right;
+
+}
+
+.hamburger-react div {
+    width: 40px !important;
+    height: 1.9px !important;
+}

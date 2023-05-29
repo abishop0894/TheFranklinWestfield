@@ -1,0 +1,173 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Edison Intermediate School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.342661,
+          40.637897
+        ],
+        "type": "Point"
+      },
+      "id": "016134a5c5978f2653ba8524484bf49d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Jefferson Elementary School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.327518,
+          40.636264
+        ],
+        "type": "Point"
+      },
+      "id": "060df00b3baf7c393b0aaeb7ae6260f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Roosevelt  Elementary School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.356598,
+          40.651242
+        ],
+        "type": "Point"
+      },
+      "id": "09e95667b8eb751e7ca81252fcc429ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lincoln Early Childhood School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.342678,
+          40.641034
+        ],
+        "type": "Point"
+      },
+      "id": "1ca8264aeb218dcf202c9a3ede8c71d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Holy Trinity Interparochial School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.350929,
+          40.647481
+        ],
+        "type": "Point"
+      },
+      "id": "463e1146750d870d989f35e8d69979de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Saint Paul's Day School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.34477,
+          40.65407
+        ],
+        "type": "Point"
+      },
+      "id": "707686cb0b43340d1ee52095402e0394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Christopher Academy School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.338324,
+          40.651866
+        ],
+        "type": "Point"
+      },
+      "id": "9b6083db338fbc4ff96fa20d726b5077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Wilson Elementary School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.343601,
+          40.66176
+        ],
+        "type": "Point"
+      },
+      "id": "a1c8c76503d68df53d210470ac50b8ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "McKinley Elementary School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.353631,
+          40.644949
+        ],
+        "type": "Point"
+      },
+      "id": "c0839c307598385bf4635cb85bef9ba7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield High School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348759,
+          40.644354
+        ],
+        "type": "Point"
+      },
+      "id": "d095ba8033b3513c7f5810f7c6f30ed7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Franklin Elementary School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.359923,
+          40.657483
+        ],
+        "type": "Point"
+      },
+      "id": "e78c94bfaa3564331f92f3da814c6aeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tamaques Elementary School": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.337262,
+          40.634292
+        ],
+        "type": "Point"
+      },
+      "id": "e803713dd33b6715cd63239d63f59511"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,61 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Town Hall": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.34523,
+          40.654981
+        ],
+        "type": "Point"
+      },
+      "id": "0676e75d8a09ea2f5a8ed2c32dec25c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Post Office": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.345964,
+          40.651249
+        ],
+        "type": "Point"
+      },
+      "id": "299b64c0be77ba30220a8598aca8c8af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Union County Police Department": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.340729,
+          40.650862
+        ],
+        "type": "Point"
+      },
+      "id": "6d91855d06a628ad18151d2a2c927a4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Police Department": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.345978,
+          40.654948
+        ],
+        "type": "Point"
+      },
+      "id": "94a8bbff3fb03789f79d7e523414e94a"
+    }
+  ],
+  "type": "FeatureCollection"
+}

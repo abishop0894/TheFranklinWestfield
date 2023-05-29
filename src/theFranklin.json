@@ -1,0 +1,19 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "The Franklin Westfield": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.335698,
+          40.651539
+        ],
+        "type": "Point"
+      },
+      "id": "bc6576fca4fde284f63b93c05c5f40a8"
+    }
+  ],
+  "type": "FeatureCollection"
+}

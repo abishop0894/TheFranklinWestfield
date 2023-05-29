@@ -1,0 +1,89 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Train Station North": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.347739,
+          40.649581
+        ],
+        "type": "Point"
+      },
+      "id": "220a3e867630b478070140a07bce7c85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Garwood Train Station": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.324746,
+          40.652554
+        ],
+        "type": "Point"
+      },
+      "id": "47c2d96657dfd2e5d9997ff565e63df7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "North Ave At Elm St": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.34763,
+          40.650191
+        ],
+        "type": "Point"
+      },
+      "id": "49617b12b7cb9ed31118ea90bca54038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "North Ave 135' E of S. Euclid Ave": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.337549,
+          40.651597
+        ],
+        "type": "Point"
+      },
+      "id": "65226af6a9695e18483e1072d6518508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "North Ave At St Paul St": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.341414,
+          40.65107
+        ],
+        "type": "Point"
+      },
+      "id": "a12c095c85ce1b9f3132ec392eeaeb1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Train Station South": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.347645,
+          40.649282
+        ],
+        "type": "Point"
+      },
+      "id": "f1d3f57c297eb7dabea2e8f1b42e4fc9"
+    }
+  ],
+  "type": "FeatureCollection"
+}

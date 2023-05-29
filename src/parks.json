@@ -1,0 +1,89 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Memorial Park and Pool Complex": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.362757,
+          40.642485
+        ],
+        "type": "Point"
+      },
+      "id": "3e014abc741a946f1feb942e0323b826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brightwood Park": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.37103,
+          40.662698
+        ],
+        "type": "Point"
+      },
+      "id": "485413effbe4e8c6f019557836abcab9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gumbert Park": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.33224,
+          40.653446
+        ],
+        "type": "Point"
+      },
+      "id": "50a49a1a7c885f58f38e5b4f90c0b97e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Unami Park": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.319699,
+          40.643778
+        ],
+        "type": "Point"
+      },
+      "id": "986a81bae5fb600766cf37fb4b15378b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mindowaskin Park": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.347586,
+          40.655649
+        ],
+        "type": "Point"
+      },
+      "id": "d3921fde848da63781d8a949c6edfb1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tamaques Park": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.337558,
+          40.629534
+        ],
+        "type": "Point"
+      },
+      "id": "d3a22eb756ac63e19b17e7ec74ad064a"
+    }
+  ],
+  "type": "FeatureCollection"
+}

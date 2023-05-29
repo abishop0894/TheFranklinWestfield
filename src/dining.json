@@ -1,0 +1,327 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Brick Oven Westfield": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.34748,
+          40.651063
+        ],
+        "type": "Point"
+      },
+      "id": "0e6afe801f2a1c58f9fda93081bd496e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Cold Stone Creamery": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348748,
+          40.651533
+        ],
+        "type": "Point"
+      },
+      "id": "10ad3a22526d7dc4fe713624d3032c82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Chez Catherine": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.349069,
+          40.649933
+        ],
+        "type": "Point"
+      },
+      "id": "1ac1e9ae78332c3af5f225941588cdba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ferraro's Restaurant": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.347683,
+          40.650435
+        ],
+        "type": "Point"
+      },
+      "id": "25703a0d1422fbf1d8886c9329470cba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Vicki's Diner": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348937,
+          40.650897
+        ],
+        "type": "Point"
+      },
+      "id": "31021668d6cf8c3db86a5488da1025e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Buddha Fish": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348149,
+          40.650851
+        ],
+        "type": "Point"
+      },
+      "id": "43d28b80e79d0b9da825e94fb1436187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Boxwood Coffee Roasters": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348958,
+          40.651312
+        ],
+        "type": "Point"
+      },
+      "id": "447e2261382cc3770333c295e4f34595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Limani Seafood": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.346921,
+          40.650235
+        ],
+        "type": "Point"
+      },
+      "id": "4cfd7d7609da726aab35e1609ade489e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "16 Prospect Wine Bar and Bistro": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348665,
+          40.650379
+        ],
+        "type": "Point"
+      },
+      "id": "64e4a15af1880e1bb8d185ced3091b0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Starbucks": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.34702,
+          40.651986
+        ],
+        "type": "Point"
+      },
+      "id": "737e1479d0513476151e2058d8307acb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nagoya": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.34314,
+          40.650363
+        ],
+        "type": "Point"
+      },
+      "id": "7d9120a6e45a646ce65710ebc119cb10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adams Tavern": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.349067,
+          40.652023
+        ],
+        "type": "Point"
+      },
+      "id": "8131543c1b696f51543ab0fab4b55f07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bareburger": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.346935,
+          40.65134
+        ],
+        "type": "Point"
+      },
+      "id": "9cb6b3a6296b18e85a847e17c4023cfd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rock 'n' Joe Cafe": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348726,
+          40.650405
+        ],
+        "type": "Point"
+      },
+      "id": "a1ba7fc976d2a41aefc87ab1abe1f7e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lion's Roar Brewery": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.350202,
+          40.648183
+        ],
+        "type": "Point"
+      },
+      "id": "a4887cb933f7092d892505b738873336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sweet Water's Steakhouse": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348184,
+          40.651048
+        ],
+        "type": "Point"
+      },
+      "id": "a72b84c6482e350dbf297978309d9a83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Orgreen Poke": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348659,
+          40.65123
+        ],
+        "type": "Point"
+      },
+      "id": "b3ccf56fd4827a1cfcd1b54b772de3fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Millburn Deli": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348563,
+          40.651325
+        ],
+        "type": "Point"
+      },
+      "id": "b44ef510397f63470b7e97fca5df6664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fiamma Wood Fired Pizza": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.347448,
+          40.651524
+        ],
+        "type": "Point"
+      },
+      "id": "c2d98569679c6168247dcee918444822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gong Cha Bubble Tea": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.349113,
+          40.651149
+        ],
+        "type": "Point"
+      },
+      "id": "d0404f65e0d153133ebf6968faf5b6a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Turning Point": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.346582,
+          40.651522
+        ],
+        "type": "Point"
+      },
+      "id": "d5e179fc771fcd63ad636a7bb25fc451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Spice Bazaar- Modern Indian Dining": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.348162,
+          40.650923
+        ],
+        "type": "Point"
+      },
+      "id": "f5773132a4ed14ef4b0e863f45cd0cd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bovella's Bakery": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.349448,
+          40.65082
+        ],
+        "type": "Point"
+      },
+      "id": "f9c3c0340039453e089afe2f385a8e87"
+    }
+  ],
+  "type": "FeatureCollection"
+}

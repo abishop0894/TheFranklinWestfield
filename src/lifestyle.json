@@ -1,0 +1,143 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nomohegan Swim & Tennis Club": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.328778,
+          40.675837
+        ],
+        "type": "Point"
+      },
+      "id": "078f2339ca4472ab1b4aaffab031afb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Alpha Fit Club Westfield": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.337315,
+          40.646371
+        ],
+        "type": "Point"
+      },
+      "id": "275e8532470e53c5166ed8f2634d3e03"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -74.336995,
+          40.650134
+        ],
+        "type": "Point"
+      },
+      "id": "27c6e97ac86c21cae0269040969ad685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Brassy Buddha Yoga Studio": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.347216,
+          40.651314
+        ],
+        "type": "Point"
+      },
+      "id": "4afdd19113f0b49f812da68ea63fd2d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Echo Lake Country Club": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.334462,
+          40.675755
+        ],
+        "type": "Point"
+      },
+      "id": "5402c3cb412ec26d06cd6c2da4856641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Outdoor Tennis Club": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.343083,
+          40.659403
+        ],
+        "type": "Point"
+      },
+      "id": "8b5efef351a430f3fa955e5e3fc7f870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Memorial Library": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.342252,
+          40.656335
+        ],
+        "type": "Point"
+      },
+      "id": "92515a607749841b2c98e67e74fb14a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Shackamaxon Country Club": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.351365,
+          40.629468
+        ],
+        "type": "Point"
+      },
+      "id": "9762f541c14fcbe393f4b2ec5077eb1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Westfield Fitness Studio": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.34713,
+          40.650206
+        ],
+        "type": "Point"
+      },
+      "id": "b17ae0d124a9b61c97b1fc0bc5d23f82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "YMCA Westfield": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -74.352386,
+          40.65054
+        ],
+        "type": "Point"
+      },
+      "id": "ce46bf962d2cd799e5a96468caa27e15"
+    }
+  ],
+  "type": "FeatureCollection"
+}
